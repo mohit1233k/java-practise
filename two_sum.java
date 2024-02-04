@@ -39,5 +39,6 @@ static int[] check(int[] arr,int tg){
         }
     
     return a ;
+}   
 }
-}
+
